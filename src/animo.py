@@ -10,22 +10,7 @@ html_temp1 = """
 st.markdown(html_temp1, unsafe_allow_html=True)
 st.write("")
 html_temp2 = """
-<div style="background-color:#000000  ;padding:10px; background:rgba(255,255,255,0.2); box-shadow: 0 5px 15px rgba(0,0,0,0.5)">
-<h2 style="color:black;text-align:center;font-family: "Lucida Console", Courier, monospace;">Animo is the latin translation of mind and noticing the sync where mental health is the well being of one's mind .We bring you a one stop guide to answer all your questions regarding mental health. We aim to provide and connect every individual with the vast expanse of mental health .Enter your queries in the space provided below and we'll be there at your service!!</h2>
-</div>"""
-st.markdown(html_temp2, unsafe_allow_html=True)
 
-
-page_bg_img = '''
-<style>
-body {
-background-image: url("https://www.homemaidsimple.com/wp-content/uploads/2018/04/Mental-health-stigma-1.jpg");
-background-size: cover;
-height: 100vh;
-background-position: center;
-}
-</style>
-'''
 
 st.markdown(page_bg_img, unsafe_allow_html=True)
 
