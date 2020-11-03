@@ -71,7 +71,7 @@ ANIMO CHATBOT:
 A club of AI models working together is what makes up Animo. They work to power the chatbot and it includes an encoder model
 and a decoder model. Which essentially creates a sequence to sequence model which uses Gated Recurrent Units 1o give a suitable reply to the entered question by the user.
 
-HELP FEATURE:
+Recommendations:
 This is another AI model running along side the chatbot models which analyzes the user input to recommend the best options to the user , If the model feels that the user is in a troubled state of mind and might harm themselves it asks the user for their pin code and then returns a list of links which could help them ranging from nearest mental health experts to the nearest hospitals. The pincode allows the bot to connect their location.  
 
 ![WhatsApp Image 2020-11-03 at 12 36 20](https://user-images.githubusercontent.com/68011962/97958360-0e4a7e00-1dd3-11eb-8b95-1135f3279d88.jpeg)
