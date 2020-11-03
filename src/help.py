@@ -65,9 +65,6 @@ class health_analysis(sentiment):
                 return True
         return False
 
-health = health_analysis(['i love it'])
-print(health.recommend())
-
 #         if predcition == 0:
 #             return 'sadness'
 # # 
